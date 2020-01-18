@@ -1,0 +1,48 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #01447b !important;
+    color:#fff;
+    font-family: 'verdana' !important;
+}
+
+.logo{
+margin: 0 auto;
+    text-align: center;
+    padding-top: 200px;
+}
+.content{
+    padding-top: 100px;
+position: absolute;
+}
+
+.contact-type{
+    letter-spacing: 0.5px;
+}
+
+.content tbody, td,tr, span{
+    color: white;
+}
+#contact-us-inner{
+    background: #01447b;
+    position: relative;
+    top: -0.6em;
+    padding-right: .5em;
+
+}
+.contact-data a{
+color:#fff !important;
+    font-size:14px;
+    letter-spacing: .31px;
+}
+
+#contact-us{
+    border-top: 1px solid #fff;
+    height: 13em;
+}
+
+table tr td{
+padding: 5px;
+}
+
+
